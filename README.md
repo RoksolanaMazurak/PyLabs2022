@@ -1,2 +1,2 @@
-# PyLabs2022
-Separate repo for Python labs, iot, spring 2022
+# lab09, option 18
+Develop a hierarchy of classes for spatial figures.
